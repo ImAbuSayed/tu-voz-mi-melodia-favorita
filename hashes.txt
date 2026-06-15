@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu voz mi melodía favorita
+
+This log tracks the cryptographic history and versioning for the song **Tu voz mi melodía favorita** (tu-voz-mi-melodia-favorita).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:27:43.424626 | `v1` | `b53af7a1f552803b39cd72fc058a72da5e57fef463c82fa59cc1b7a2ea52ea7b` | `ca12f87c7061c080a4f491629956ced14944e6af70ceea9ac1dd1aab108aaccd` | `2026-06-15_tu-voz-mi-melodia-favorita-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

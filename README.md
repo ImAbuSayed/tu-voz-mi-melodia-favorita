@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-voz-mi-melodia-favorita/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu voz mi melodía favorita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-voz-mi-melodia-favorita/) |
+| **Get License** | [Get a Licensing Quote for Tu voz mi melodía favorita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-voz-mi-melodia-favorita/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu voz es mi melodía favorita, baby
+> Cuando me llamas a las tres, mi alma palpita, crazy
+> Tú tienes ese flow que en la disco me debilita
+> Eres el ritmo exacto que mi cuerpo necesita
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
